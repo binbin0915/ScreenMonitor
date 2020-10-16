@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ScreenMonitor</string>
+    <string name="logon_title">请输入用户名密码</string>
+    <string name="confirm">确 定</string>
+    <string name="tv_nick">用户名：</string>
+    <string name="tv_pwd">密码：</string>
+    <string name="loginTest">登录</string>
+    <string name="ipAddr">请输入服务器IP</string>
+    <string name="DefaultIP">192.168.0.249</string>//59.175.145.163
+    <string name="userName">aa02</string>
+    <string name="password">12345</string>
+    <string name="accept">接受</string>
+    <string name="cancle">取消</string>
+    <string name="ownerName">连接</string>
+    <string name="ownerID">aa01</string>
+    <string name="caramer">摄像头</string>
+    <string name="microphone">麦克风</string>
+    <string name="app_error">系统异常</string>
+    <string name="app_error_message">异常信息</string>
+    <string name="submit_report">提交错误</string>
+</resources>

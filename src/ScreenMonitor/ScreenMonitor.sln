@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenMonitor", "ScreenMonitor\ScreenMonitor.csproj", "{74A4C7C4-F479-4395-903C-F985E7C52C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenMonitor.Server", "ScreenMonitor.Server\ScreenMonitor.Server.csproj", "{AA658E9B-35EC-45A7-B384-448F6F4D2D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A4C7C4-F479-4395-903C-F985E7C52C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A4C7C4-F479-4395-903C-F985E7C52C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A4C7C4-F479-4395-903C-F985E7C52C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A4C7C4-F479-4395-903C-F985E7C52C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA658E9B-35EC-45A7-B384-448F6F4D2D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA658E9B-35EC-45A7-B384-448F6F4D2D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA658E9B-35EC-45A7-B384-448F6F4D2D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA658E9B-35EC-45A7-B384-448F6F4D2D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1CE563-B3E6-4334-B17A-83FF28BA2A9D}
+	EndGlobalSection
+EndGlobal
